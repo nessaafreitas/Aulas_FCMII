@@ -1,0 +1,11 @@
+Vanessa Alves de Freitas
+
+git init -> cria pasta oculta para salvar 
+master -> ramo mestre
+
+git add -> adicionar 
+git commit -m 
+
+git log -> mostrar as modifições
+
+Lições 
